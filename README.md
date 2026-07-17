@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhaniksha29/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Dhaniksha29/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Dhaniksha29/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dhaniksha29/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Dhaniksha29/DSA/tree/master/0118-pascals-triangle) |
@@ -23,6 +24,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Dhaniksha29/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Dhaniksha29/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
@@ -57,5 +59,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Dhaniksha29/DSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhaniksha29/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
