@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Dhaniksha29/DSA/tree/master/0189-rotate-array) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Dhaniksha29/DSA/tree/master/1753-maximum-score-from-removing-stones) |
 ## Sorting
 |  |
 | ------- |
@@ -75,8 +76,13 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Dhaniksha29/DSA/tree/master/0561-array-partition) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Dhaniksha29/DSA/tree/master/1753-maximum-score-from-removing-stones) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Dhaniksha29/DSA/tree/master/0561-array-partition) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-maximum-score-from-removing-stones](https://github.com/Dhaniksha29/DSA/tree/master/1753-maximum-score-from-removing-stones) |
 <!---LeetCode Topics End-->
