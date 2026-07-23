@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhaniksha29/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Dhaniksha29/DSA/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/Dhaniksha29/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Dhaniksha29/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dhaniksha29/DSA/tree/master/0075-sort-colors) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhaniksha29/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Dhaniksha29/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Dhaniksha29/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Dhaniksha29/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dhaniksha29/DSA/tree/master/0283-move-zeroes) |
