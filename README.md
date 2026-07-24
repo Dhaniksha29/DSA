@@ -42,6 +42,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhaniksha29/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhaniksha29/DSA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhaniksha29/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Dhaniksha29/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Dhaniksha29/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dhaniksha29/DSA/tree/master/0283-move-zeroes) |
@@ -87,4 +88,12 @@
 |  |
 | ------- |
 | [1753-maximum-score-from-removing-stones](https://github.com/Dhaniksha29/DSA/tree/master/1753-maximum-score-from-removing-stones) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhaniksha29/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhaniksha29/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
