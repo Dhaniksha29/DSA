@@ -92,6 +92,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dhaniksha29/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhaniksha29/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dhaniksha29/DSA/tree/master/0029-divide-two-integers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Dhaniksha29/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
