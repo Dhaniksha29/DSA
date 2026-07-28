@@ -34,6 +34,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Dhaniksha29/DSA/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Dhaniksha29/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dhaniksha29/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhaniksha29/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhaniksha29/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Dhaniksha29/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhaniksha29/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhaniksha29/DSA/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Dhaniksha29/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
