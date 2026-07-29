@@ -23,6 +23,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Dhaniksha29/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Dhaniksha29/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Dhaniksha29/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhaniksha29/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -51,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Dhaniksha29/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Dhaniksha29/DSA/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/Dhaniksha29/DSA/tree/master/0189-rotate-array) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Dhaniksha29/DSA/tree/master/1753-maximum-score-from-removing-stones) |
@@ -93,6 +95,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Dhaniksha29/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Dhaniksha29/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Dhaniksha29/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhaniksha29/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
