@@ -57,6 +57,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dhaniksha29/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Dhaniksha29/DSA/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Dhaniksha29/DSA/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/Dhaniksha29/DSA/tree/master/0189-rotate-array) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Dhaniksha29/DSA/tree/master/1753-maximum-score-from-removing-stones) |
 ## Sorting
@@ -76,6 +77,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Dhaniksha29/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Dhaniksha29/DSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhaniksha29/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
@@ -102,6 +104,7 @@
 | [0020-valid-parentheses](https://github.com/Dhaniksha29/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Dhaniksha29/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhaniksha29/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Dhaniksha29/DSA/tree/master/0043-multiply-strings) |
 ## String Matching
 |  |
 | ------- |
