@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dhaniksha29/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhaniksha29/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhaniksha29/DSA/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Dhaniksha29/DSA/tree/master/0036-valid-sudoku) |
@@ -24,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dhaniksha29/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Dhaniksha29/DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Dhaniksha29/DSA/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Dhaniksha29/DSA/tree/master/0073-set-matrix-zeroes) |
