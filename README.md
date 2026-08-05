@@ -61,6 +61,7 @@
 | [0013-roman-to-integer](https://github.com/Dhaniksha29/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Dhaniksha29/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Dhaniksha29/DSA/tree/master/0043-multiply-strings) |
+| [0069-sqrtx](https://github.com/Dhaniksha29/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Dhaniksha29/DSA/tree/master/0189-rotate-array) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Dhaniksha29/DSA/tree/master/1753-maximum-score-from-removing-stones) |
 ## Sorting
@@ -128,4 +129,9 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhaniksha29/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Dhaniksha29/DSA/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Dhaniksha29/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
