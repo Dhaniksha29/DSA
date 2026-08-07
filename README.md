@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhaniksha29/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Dhaniksha29/DSA/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Dhaniksha29/DSA/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Dhaniksha29/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Dhaniksha29/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dhaniksha29/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Dhaniksha29/DSA/tree/master/0118-pascals-triangle) |
@@ -61,6 +62,7 @@
 | [0013-roman-to-integer](https://github.com/Dhaniksha29/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Dhaniksha29/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Dhaniksha29/DSA/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/Dhaniksha29/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dhaniksha29/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Dhaniksha29/DSA/tree/master/0189-rotate-array) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Dhaniksha29/DSA/tree/master/1753-maximum-score-from-removing-stones) |
