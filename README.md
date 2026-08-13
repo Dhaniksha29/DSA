@@ -61,6 +61,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dhaniksha29/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Dhaniksha29/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Dhaniksha29/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Dhaniksha29/DSA/tree/master/0029-divide-two-integers) |
@@ -148,9 +149,11 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dhaniksha29/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Dhaniksha29/DSA/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dhaniksha29/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Dhaniksha29/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
