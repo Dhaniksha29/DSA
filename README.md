@@ -55,6 +55,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhaniksha29/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Dhaniksha29/DSA/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Dhaniksha29/DSA/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Dhaniksha29/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dhaniksha29/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhaniksha29/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -84,6 +85,7 @@
 | [0013-roman-to-integer](https://github.com/Dhaniksha29/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Dhaniksha29/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Dhaniksha29/DSA/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/Dhaniksha29/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Dhaniksha29/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dhaniksha29/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Dhaniksha29/DSA/tree/master/0189-rotate-array) |
@@ -195,4 +197,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhaniksha29/DSA/tree/master/0005-longest-palindromic-substring) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Dhaniksha29/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
