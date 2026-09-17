@@ -19,6 +19,7 @@
 | [0036-valid-sudoku](https://github.com/Dhaniksha29/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Dhaniksha29/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Dhaniksha29/DSA/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Dhaniksha29/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Dhaniksha29/DSA/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Dhaniksha29/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Dhaniksha29/DSA/tree/master/0066-plus-one) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhaniksha29/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Dhaniksha29/DSA/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Dhaniksha29/DSA/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Dhaniksha29/DSA/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Dhaniksha29/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dhaniksha29/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhaniksha29/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Dhaniksha29/DSA/tree/master/0045-jump-game-ii) |
 | [0561-array-partition](https://github.com/Dhaniksha29/DSA/tree/master/0561-array-partition) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Dhaniksha29/DSA/tree/master/1753-maximum-score-from-removing-stones) |
 ## Counting Sort
