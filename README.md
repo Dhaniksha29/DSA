@@ -22,6 +22,7 @@
 | [0045-jump-game-ii](https://github.com/Dhaniksha29/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Dhaniksha29/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Dhaniksha29/DSA/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Dhaniksha29/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dhaniksha29/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Dhaniksha29/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Dhaniksha29/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Dhaniksha29/DSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Dhaniksha29/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dhaniksha29/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Dhaniksha29/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
@@ -91,6 +93,7 @@
 | [0013-roman-to-integer](https://github.com/Dhaniksha29/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Dhaniksha29/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Dhaniksha29/DSA/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Dhaniksha29/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Dhaniksha29/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Dhaniksha29/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dhaniksha29/DSA/tree/master/0069-sqrtx) |
