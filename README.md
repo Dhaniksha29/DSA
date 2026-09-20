@@ -23,6 +23,7 @@
 | [0046-permutations](https://github.com/Dhaniksha29/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Dhaniksha29/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Dhaniksha29/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Dhaniksha29/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Dhaniksha29/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Dhaniksha29/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Dhaniksha29/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -47,6 +48,7 @@
 | [0013-roman-to-integer](https://github.com/Dhaniksha29/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhaniksha29/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Dhaniksha29/DSA/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Dhaniksha29/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Dhaniksha29/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Dhaniksha29/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhaniksha29/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -106,6 +108,7 @@
 | [0016-3sum-closest](https://github.com/Dhaniksha29/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dhaniksha29/DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Dhaniksha29/DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Dhaniksha29/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Dhaniksha29/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Dhaniksha29/DSA/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Dhaniksha29/DSA/tree/master/0561-array-partition) |
@@ -158,6 +161,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhaniksha29/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Dhaniksha29/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Dhaniksha29/DSA/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Dhaniksha29/DSA/tree/master/0049-group-anagrams) |
 ## String Matching
 |  |
 | ------- |
