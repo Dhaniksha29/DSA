@@ -96,6 +96,7 @@
 | [0029-divide-two-integers](https://github.com/Dhaniksha29/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Dhaniksha29/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Dhaniksha29/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Dhaniksha29/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Dhaniksha29/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Dhaniksha29/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dhaniksha29/DSA/tree/master/0069-sqrtx) |
@@ -208,6 +209,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhaniksha29/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Dhaniksha29/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Dhaniksha29/DSA/tree/master/0050-powx-n) |
 ## Sliding Window
 |  |
 | ------- |
